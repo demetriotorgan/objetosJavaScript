@@ -1,5 +1,5 @@
 //tipo de dados primitivos
-var idade = 18;
+var idade = 20;
 var sexo = 'f';
 var nome = 'Demetrio';
 var existe = false;
